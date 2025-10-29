@@ -27,9 +27,9 @@ def create_table():
         user_id INT REFERENCES users(id) ON DELETE CASCADE,
         title VARCHAR(255) NOT NULL,
         description TEXT,
-        start_date TIMESTAMP DEFAULT NOW(),
-        end_date TIMESTAMP,
-        holat VARCHAR(20) DEFAULT 'bajarilmagan'
+        create_date TIMESTAMP DEFAULT NOW(),
+        deadline TIMESTAMP,
+        holat VARCHAR(20) DEFAULT 'tugallanmagan'
     );
     """
 

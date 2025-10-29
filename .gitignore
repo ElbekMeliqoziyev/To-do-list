@@ -12,6 +12,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+muhit.bak/
 /env
 
 # ---- Editor files ----
@@ -30,6 +31,9 @@ Thumbs.db
 # ---- Environment variables ----
 *.env
 .env.*
+*.muhit
+.muhit.*
+!.muhit.example
 !.env.example
 
 # ---- Tests ----

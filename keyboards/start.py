@@ -7,3 +7,10 @@ START_BUTTON = ReplyKeyboardMarkup(
     ],
     resize_keyboard=True
 )
+
+TAVSIF_BUTTON = ReplyKeyboardMarkup(
+    keyboard=[
+        [KeyboardButton(text="Shart emas")]
+    ],
+    resize_keyboard=True
+)
