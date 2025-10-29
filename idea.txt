@@ -1,9 +1,13 @@
-status kerakmi ?
+state kerakmi ?
 
 bilmadim  
 
 foydalanuvchidan nimalar qabul qilamiz ?
 
 sarlavha
+
+batatafsil malumot  (description) yoki qo'shimcha izoh
+
+deadline  (bajarish muddat tugashi)
 
 

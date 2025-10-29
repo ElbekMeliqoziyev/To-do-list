@@ -67,3 +67,6 @@ local_settings.py
 # ---- Misc ----
 *.bak
 *.tmp
+
+idea.txt
+idea
